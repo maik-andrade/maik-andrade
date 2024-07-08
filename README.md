@@ -28,7 +28,7 @@
 <h2 align="center">⚒️ Linguagens e Ferramentas</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=css,debian,figma,git,github,gitlab,html,js,linux,notion,ps,powershell,vscode,wordpress,webstorm" />
+    <img src="https://skillicons.dev/icons?i=css,debian,figma,git,github,html,java,js,linux,notion,ps,powershell,vscode,wordpress,webstorm" />
 </div>
 
 <hr/>
